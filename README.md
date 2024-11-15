@@ -1,1 +1,1 @@
-Alpinebox is a sample repo demostrating how to use Kemet UI Web Components with AlpineJS.
+Alpinebox is an integration repo demostrating how to use Kemet UI Web Components with AlpineJS.
