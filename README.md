@@ -1,3 +1,1 @@
-# web-components-alpinebox
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/hasanirogers/web-components-alpinebox)
+Alpinebox is a sample repo demostrating how to use Kemet UI Web Components with AlpineJS.
